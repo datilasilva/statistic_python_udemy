@@ -1,7 +1,7 @@
-# Probabilistic statistics for data analysis (probabilities, Binomial, Geometric, Poisson distribution, normal distribution and normality test). Inferential statistics for data analysis (parametric and non-parametric tests, confidence intervals, hypothesis tests...) Graphic Creation and Analysis by Matplotlib, Seaborn and Plotly. (Scatter, line, histogram, bars, boxplot, Q-Qplot) Manipulation of Pandas, Numpy, Scipy, StatsModels, Scikit-Learning libraries.
+# Statistic in python - Udemy courses
+### Probabilistic statistics for data analysis (probabilities, Binomial, Geometric, Poisson distribution, normal distribution and normality test). Inferential statistics for data analysis (parametric and non-parametric tests, confidence intervals, hypothesis tests...) Graphic Creation and Analysis by Matplotlib, Seaborn and Plotly. (Scatter, line, histogram, bars, boxplot, Q-Qplot) Manipulation of Pandas, Numpy, Scipy, StatsModels, Scikit-Learning libraries.
 
-## Statistic in python - Udemy courses
-statistic_python
+##statistic_python
 Fundamentos da Linguagem Python (operadores , estrutura condicional, estrutura de repetição, listas, tuplas, dicionários, vetores, matrizes, funções e pacotes)
 Limpeza, organização e manipulação de dados
 Estatística descritiva para análise de dados (amostragens, frequências, medidas tendência central, medidas de posição, medidas dispersão e análise de outliers)
